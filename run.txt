@@ -2,4 +2,4 @@ create env      python -m venv hello
 install pkg     pip install requirements.txt
 activate env    hello\Scripts\activate.bat 
 creating        scrapy startproject "Project Name"
-gather data     scrapy crawl <spider name> -o file.csv
+gather data     scrapy crawl <spider name> -o Data/file.csv

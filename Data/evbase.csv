@@ -1,0 +1,262 @@
+brand,model,seat,battery,range,topspeed,acceleration
+Tesla,Model 3 Long Range Dual Motor,5,75,485 km,233 km/h,4.4 sec
+Tesla,Model Y Long Range Dual Motor,5,75,435 km,217 km/h,5.0 sec
+Tesla,Model 3 ,5,57.5,380 km,225 km/h,6.1 sec
+MG,MG4 Electric 64 kWh,5,61.7,365 km,160 km/h,7.9 sec
+Honda,e ,4,28.5,170 km,145 km/h,9.0 sec
+Mercedes,EQE 350+,5,90.6,525 km,210 km/h,6.4 sec
+BMW,iX M60,5,105.2,485 km,250 km/h,3.8 sec
+BMW,i4 eDrive40,5,80.7,470 km,190 km/h,5.7 sec
+Tesla,Model Y ,5,57.5,345 km,217 km/h,6.9 sec
+Mercedes,EQS 450+,5,107.8,640 km,210 km/h,6.2 sec
+BMW,iX1 xDrive30,5,64.7,355 km,180 km/h,5.6 sec
+Mercedes,EQS AMG 53 4MATIC+,5,107.8,565 km,250 km/h,3.4 sec
+Kia,Niro EV ,5,64.8,380 km,167 km/h,7.8 sec
+BMW,iX xDrive40,5,71,360 km,200 km/h,6.1 sec
+Hyundai,IONIQ 6 Long Range AWD,5,74,470 km,190 km/h,5.1 sec
+BMW,iX xDrive50,5,105.2,505 km,200 km/h,4.6 sec
+Kia,EV6 GT,5,74,370 km,260 km/h,3.5 sec
+Renault,Megane E-Tech EV60 220hp,5,60,360 km,160 km/h,7.4 sec
+Mercedes,EQS 580 4MATIC,5,107.8,605 km,210 km/h,4.3 sec
+Lexus,RZ 450e,5,71.4,350 km,160 km/h,5.6 sec
+Skoda,Enyaq iV 80,5,77,420 km,160 km/h,8.6 sec
+Volkswagen,ID. Buzz Pro,5,77,330 km,145 km/h,10.2 sec
+Nissan,Ariya 87kWh,5,87,445 km,160 km/h,7.6 sec
+BMW,i4 M50,5,80.7,435 km,225 km/h,3.9 sec
+Tesla,Model S Plaid,5,95,560 km,322 km/h,2.1 sec
+Mercedes,EQC 400 4MATIC,5,80,370 km,180 km/h,5.1 sec
+Tesla,Model S Dual Motor,5,95,585 km,250 km/h,3.2 sec
+Fisker,Ocean One,5,100,510 km,200 km/h,3.9 sec
+BMW,i7 xDrive60,5,101.7,510 km,240 km/h,4.7 sec
+Hyundai,Kona Electric 64 kWh,5,64,395 km,167 km/h,7.9 sec
+Dacia,Spring Electric,4,25,155 km,125 km/h,19.1 sec
+Volvo,XC40 Recharge Pure Electric,5,67,335 km,160 km/h,7.4 sec
+Lightyear,0 ,5,60,550 km,160 km/h,10.0 sec
+Renault,Zoe ZE50 R110,5,52,315 km,135 km/h,11.4 sec
+Tesla,Model Y Performance,5,75,415 km,250 km/h,3.7 sec
+Mercedes,EQB 350 4MATIC,7,66.5,330 km,160 km/h,6.2 sec
+Kia,EV6 Long Range 2WD,5,74,410 km,185 km/h,7.3 sec
+Audi,e-tron GT RS,4,85,405 km,250 km/h,3.3 sec
+MG,MG4 Electric 51 kWh,5,50.8,300 km,160 km/h,7.7 sec
+Fiat,500e Hatchback 42 kWh,4,37.3,235 km,150 km/h,9.0 sec
+MG,ZS EV Long Range,5,68.3,365 km,175 km/h,8.4 sec
+Hyundai,IONIQ 6 Long Range 2WD,5,74,485 km,190 km/h,7.0 sec
+Audi,Q4 e-tron 40,5,76.6,405 km,160 km/h,8.5 sec
+Citroen,e-C4 ,5,45,265 km,150 km/h,9.7 sec
+Polestar,2 Long Range Dual Motor,5,75,395 km,205 km/h,4.7 sec
+Mercedes,EQS SUV 580 4MATIC,7,108.4,485 km,210 km/h,4.6 sec
+Volkswagen,ID.4 Pro Performance,5,77,410 km,160 km/h,8.5 sec
+BMW,iX3 ,5,74,385 km,180 km/h,6.8 sec
+Kia,EV6 Long Range AWD,5,74,400 km,185 km/h,5.2 sec
+NIO,ET7 100 kWh,5,90,505 km,200 km/h,3.8 sec
+Volkswagen,ID.4 GTX,5,77,400 km,180 km/h,6.2 sec
+Peugeot,e-208 ,5,45,285 km,150 km/h,8.1 sec
+Seres,3 ,5,52,270 km,155 km/h,8.9 sec
+Lucid,Air Dream Edition R,5,118,695 km,270 km/h,2.9 sec
+Smart,#1 ,5,64,350 km,180 km/h,6.7 sec
+Audi,e-tron 55 quattro,5,86.5,365 km,200 km/h,5.7 sec
+Polestar,3 Long Range Dual motor,5,107,490 km,210 km/h,5.0 sec
+Hyundai,IONIQ 5 Long Range 2WD,5,74,390 km,185 km/h,7.3 sec
+Mini,Cooper SE ,4,28.9,180 km,150 km/h,7.3 sec
+Nissan,Leaf ,5,39,235 km,144 km/h,7.9 sec
+CUPRA,Born 150 kW - 58 kWh,5,58,350 km,160 km/h,7.3 sec
+Mercedes,EQE SUV 350+,5,90.6,470 km,210 km/h,7.0 sec
+Porsche,Taycan Turbo S,4,83.7,400 km,260 km/h,2.8 sec
+Mercedes,EQE 300,5,89,515 km,210 km/h,7.6 sec
+Polestar,2 Long Range Single Motor,5,75,425 km,160 km/h,7.4 sec
+MG,Marvel R Performance,5,65,330 km,200 km/h,4.9 sec
+Jaguar,I-Pace EV400,5,84.7,380 km,200 km/h,4.8 sec
+Toyota,bZ4X FWD,5,71.4,375 km,160 km/h,7.5 sec
+Volkswagen,ID.5 Pro,5,77,430 km,160 km/h,10.4 sec
+Hyundai,IONIQ 6 Standard Range 2WD,5,54,360 km,190 km/h,8.0 sec
+MG,MG5 Electric Long Range,5,57,325 km,185 km/h,8.3 sec
+Skoda,Enyaq iV 60,5,58,330 km,160 km/h,8.7 sec
+Volkswagen,ID.3 Pro Performance,5,58,350 km,160 km/h,7.3 sec
+Mercedes,EQS SUV 450+,7,108.4,495 km,210 km/h,6.7 sec
+CUPRA,Born 170 kW - 77 kWh,4,77,450 km,160 km/h,7.0 sec
+Peugeot,e-2008 SUV ,5,45,255 km,150 km/h,8.5 sec
+Rolls-Royce,Spectre ,4,100,455 km,250 km/h,4.5 sec
+Nissan,Leaf e+,5,59,340 km,157 km/h,6.9 sec
+Lexus,UX 300e,5,45,235 km,160 km/h,7.5 sec
+Mercedes,EQV 300 Long,7,90,305 km,160 km/h,12.1 sec
+Mercedes,EQB 250,7,66.5,345 km,160 km/h,9.2 sec
+MG,ZS EV Standard Range,5,49,270 km,175 km/h,8.6 sec
+Volvo,C40 Recharge Twin Pure Electric,5,75,350 km,180 km/h,4.7 sec
+Tesla,Model 3 Performance,5,75,460 km,261 km/h,3.3 sec
+Peugeot,e-308 ,5,51,310 km,150 km/h,9.0 sec
+Hyundai,IONIQ 5 Long Range AWD,5,74,385 km,185 km/h,5.1 sec
+Audi,Q4 e-tron 50 quattro,5,76.6,385 km,180 km/h,6.2 sec
+Sono,Sion ,5,47,260 km,140 km/h,9.0 sec
+Audi,Q4 e-tron 35,5,52,285 km,160 km/h,9.0 sec
+Skoda,Enyaq Coupe iV RS,5,77,405 km,180 km/h,6.5 sec
+Mercedes,EQE AMG 43 4MATIC,5,90.6,485 km,210 km/h,4.2 sec
+Renault,Twingo Electric,4,21.3,130 km,135 km/h,12.6 sec
+Tesla,Model X Plaid,6,95,460 km,262 km/h,2.6 sec
+Mercedes,EQE 500 4MATIC,5,90.6,500 km,210 km/h,4.7 sec
+Volkswagen,ID.4 Pure,5,52,285 km,160 km/h,10.9 sec
+Polestar,2 Standard Range Single Motor,5,67,385 km,160 km/h,7.4 sec
+Hyundai,Kona Electric 39 kWh,5,39.2,250 km,155 km/h,9.9 sec
+Hyundai,IONIQ 5 Standard Range 2WD,5,54,295 km,185 km/h,8.5 sec
+Renault,Zoe ZE50 R135,5,52,310 km,140 km/h,9.5 sec
+Mercedes,EQE AMG 53 4MATIC+,5,90.6,480 km,240 km/h,3.5 sec
+Mercedes,EQB 300 4MATIC,7,66.5,330 km,160 km/h,8.0 sec
+Mazda,MX-30 ,5,30,170 km,140 km/h,9.7 sec
+Volvo,XC40 Recharge Twin Pure Electric,5,75,340 km,180 km/h,4.9 sec
+Audi,e-tron GT quattro,4,85,420 km,245 km/h,4.1 sec
+Volkswagen,ID.4 Pro,5,77,410 km,160 km/h,10.4 sec
+Volkswagen,ID.5 GTX,5,77,405 km,180 km/h,6.3 sec
+Subaru,Solterra AWD,5,71.4,355 km,160 km/h,6.9 sec
+Fisker,Ocean Ultra,5,100,505 km,200 km/h,4.2 sec
+Opel,Corsa-e ,5,45,285 km,150 km/h,8.1 sec
+Renault,Megane E-Tech EV40 130hp,5,40,250 km,150 km/h,10.0 sec
+Fisker,Ocean Sport,5,75,380 km,160 km/h,7.4 sec
+Polestar,3 Long Range Performance,5,107,470 km,210 km/h,4.7 sec
+Hongqi,E-HS9 99 kWh,5,90,355 km,200 km/h,4.9 sec
+Opel,Mokka-e ,5,45,255 km,150 km/h,9.2 sec
+Volkswagen,ID.5 Pro Performance,5,77,430 km,160 km/h,8.4 sec
+Mercedes,EQE SUV 350 4MATIC,5,90.6,455 km,210 km/h,6.5 sec
+MG,Marvel R ,5,65,335 km,200 km/h,7.9 sec
+Audi,Q4 Sportback e-tron 40,5,76.6,425 km,160 km/h,8.5 sec
+Lucid,Air Dream Edition P,5,118,655 km,270 km/h,2.7 sec
+Volvo,C40 Recharge Pure Electric,5,67,330 km,160 km/h,7.4 sec
+Hongqi,E-HS9 84 kWh,5,76.5,305 km,200 km/h,6.5 sec
+Renault,Megane E-Tech EV60 130hp,5,60,365 km,150 km/h,10.5 sec
+Skoda,Enyaq Coupe iV 80,5,77,445 km,160 km/h,8.7 sec
+Skoda,Enyaq iV 80x,5,77,400 km,160 km/h,6.9 sec
+XPENG,P5 ,5,60,385 km,150 km/h,7.5 sec
+Volkswagen,ID.3 Pro S - 5 Seats,5,77,450 km,160 km/h,7.9 sec
+Fiat,500e Hatchback 24 kWh,4,21.3,135 km,135 km/h,9.0 sec
+Porsche,Taycan ,4,71,410 km,230 km/h,5.4 sec
+NIO,ET7 75 kWh,5,70.5,395 km,200 km/h,3.8 sec
+Mercedes,EQE 350 4MATIC,5,90.6,500 km,210 km/h,6.3 sec
+Aiways,U5 ,5,60,315 km,150 km/h,7.5 sec
+Audi,e-tron S ,5,86.5,320 km,210 km/h,4.5 sec
+Porsche,Taycan 4S,4,71,395 km,250 km/h,4.0 sec
+Genesis,GV60 Premium,5,74,390 km,185 km/h,7.8 sec
+Tesla,Model X Dual Motor,7,95,480 km,250 km/h,3.9 sec
+Smart,#1 Brabus,5,64,335 km,180 km/h,3.9 sec
+Mercedes,EQE SUV AMG 53 4MATIC+,5,90.6,425 km,240 km/h,3.5 sec
+Smart,EQ fortwo coupe,2,16.7,100 km,130 km/h,11.6 sec
+Fisker,Ocean Extreme,5,100,510 km,200 km/h,3.9 sec
+Lucid,Air Pure,5,88,560 km,200 km/h,4.2 sec
+Mercedes,EQA 350 4MATIC,5,66.5,350 km,160 km/h,6.0 sec
+Ford,Mustang Mach-E ER RWD,5,91,455 km,180 km/h,7.0 sec
+Mercedes,EQS 500 4MATIC,5,107.8,605 km,210 km/h,4.8 sec
+Aiways,U6 ,5,60,350 km,160 km/h,7.0 sec
+Mercedes,EQA 250,5,66.5,355 km,160 km/h,8.6 sec
+Volkswagen,ID.4 Pure Performance,5,52,285 km,160 km/h,9.0 sec
+Mercedes,EQE SUV 500 4MATIC,5,90.6,455 km,210 km/h,5.0 sec
+Citroen,e-C4 X ,5,45,270 km,150 km/h,9.7 sec
+Lucid,Air Grand Touring,5,112,665 km,270 km/h,3.2 sec
+Peugeot,e-308 SW ,5,51,300 km,150 km/h,9.0 sec
+Mercedes,EQS 450 4MATIC,5,107.8,615 km,210 km/h,5.6 sec
+Mercedes,EQA 300 4MATIC,5,66.5,350 km,160 km/h,7.7 sec
+Kia,EV6 Standard Range 2WD,5,54,305 km,185 km/h,8.5 sec
+Nissan,Ariya 63kWh,5,63,335 km,160 km/h,7.5 sec
+Nissan,Ariya e-4ORCE 87kWh,5,87,420 km,200 km/h,5.7 sec
+Porsche,Taycan Plus,4,83.7,475 km,230 km/h,5.4 sec
+Volkswagen,ID.3 Pro S - 4 Seats,4,77,450 km,160 km/h,7.9 sec
+Toyota,bZ4X AWD,5,71.4,370 km,160 km/h,6.9 sec
+SsangYong,Korando e-Motion,5,56,290 km,156 km/h,8.5 sec
+Audi,Q4 Sportback e-tron 50 quattro,5,76.6,400 km,180 km/h,6.2 sec
+Honda,e Advance,4,28.5,170 km,145 km/h,8.3 sec
+Volkswagen,ID.4 Pro 4MOTION,5,77,405 km,180 km/h,6.9 sec
+Kia,e-Soul 64 kWh,5,64,370 km,167 km/h,7.9 sec
+Genesis,G80 Electrified Luxury,5,82.5,440 km,225 km/h,4.9 sec
+Mercedes,EQS SUV 450 4MATIC,7,108.4,485 km,210 km/h,6.0 sec
+Mercedes,EQA 250+,5,70.5,375 km,160 km/h,8.6 sec
+Genesis,GV70 Electrified Sport,5,74,350 km,235 km/h,4.2 sec
+DS,3 Crossback E-Tense,5,45,260 km,150 km/h,8.7 sec
+Ford,Mustang Mach-E ER AWD,5,91,440 km,180 km/h,5.8 sec
+Porsche,Taycan 4 Cross Turismo,4,83.7,425 km,220 km/h,5.1 sec
+Ford,Mustang Mach-E GT,5,91,425 km,200 km/h,4.4 sec
+Porsche,Taycan 4S Plus,4,83.7,460 km,250 km/h,4.0 sec
+JAC,iEV7s ,5,39,225 km,132 km/h,12.0 sec
+CUPRA,Born 110 kW - 45 kWh,5,45,275 km,160 km/h,8.9 sec
+Porsche,Taycan GTS,4,83.7,450 km,250 km/h,3.7 sec
+Audi,Q4 e-tron 45 quattro,5,76.6,385 km,180 km/h,6.9 sec
+Citroen,e-Berlingo M 50 kWh,5,45,200 km,135 km/h,11.7 sec
+Audi,Q4 Sportback e-tron 45 quattro,5,76.6,400 km,180 km/h,6.9 sec
+MG,MG5 Electric Standard Range,5,46,260 km,185 km/h,8.5 sec
+Porsche,Taycan Turbo,4,83.7,415 km,260 km/h,3.2 sec
+Ford,Mustang Mach-E SR RWD,5,70,355 km,180 km/h,6.9 sec
+Audi,e-tron Sportback 55 quattro,5,86.5,380 km,200 km/h,5.7 sec
+Mercedes,EQE SUV AMG 43 4MATIC,5,90.6,435 km,210 km/h,4.3 sec
+Audi,e-tron S Sportback ,5,86.5,330 km,210 km/h,4.5 sec
+Skoda,Enyaq Coupe iV 80x,5,77,430 km,160 km/h,7.0 sec
+Peugeot,e-Expert Combi Standard 75 kWh,9,68,265 km,130 km/h,14.3 sec
+Peugeot,e-Rifter Long 50 kWh,7,45,195 km,135 km/h,11.7 sec
+Mercedes,EQE 350,5,89,515 km,210 km/h,6.4 sec
+Smart,EQ fortwo cabrio,2,16.7,95 km,130 km/h,11.9 sec
+Genesis,GV60 Sport,5,74,380 km,200 km/h,5.5 sec
+Audi,e-tron 50 quattro,5,64.7,280 km,190 km/h,6.8 sec
+Lucid,Air Touring,5,88,550 km,250 km/h,3.4 sec
+Nissan,Ariya e-4ORCE 87kWh Performance,5,87,385 km,200 km/h,5.1 sec
+Fiat,500e 3+1 24 kWh,4,21.3,135 km,135 km/h,9.0 sec
+CUPRA,Born 170 kW - 58 kWh,5,58,345 km,160 km/h,6.6 sec
+Toyota,PROACE Verso M 75 kWh,8,68,265 km,130 km/h,13.1 sec
+Audi,Q4 Sportback e-tron 35,5,52,295 km,160 km/h,9.0 sec
+Ford,Mustang Mach-E SR AWD,5,70,345 km,180 km/h,6.3 sec
+Mercedes,eVito Tourer Long 90 kWh,9,90,310 km,160 km/h,12.0 sec
+Kia,e-Soul 39.2 kWh,5,39.2,230 km,157 km/h,9.9 sec
+Mercedes,EQV 300 Extra-Long,7,90,305 km,160 km/h,12.1 sec
+Skoda,Enyaq Coupe iV 60,5,58,335 km,160 km/h,8.8 sec
+Skoda,Enyaq iV RS,5,77,385 km,180 km/h,6.2 sec
+Citroen,e-Jumpy Combi M 75 kWh,9,68,265 km,130 km/h,13.3 sec
+Fiat,500e Cabrio 42 kWh,4,37.3,230 km,150 km/h,9.0 sec
+Toyota,PROACE Verso L 75 kWh,8,68,260 km,130 km/h,13.1 sec
+Opel,Zafira-e Life L 75 kWh,9,68,260 km,130 km/h,13.3 sec
+Porsche,Taycan Turbo S Sport Turismo,4,83.7,395 km,260 km/h,2.8 sec
+Fiat,500e 3+1 42 kWh,4,37.3,235 km,150 km/h,9.0 sec
+Opel,Combo-e Life XL 50 kWh,7,45,195 km,135 km/h,11.7 sec
+Opel,Vivaro-e Combi M 75 kWh,9,68,265 km,130 km/h,13.3 sec
+Audi,e-tron Sportback 50 quattro,5,64.7,295 km,190 km/h,6.8 sec
+Genesis,GV60 Sport Plus,5,74,365 km,235 km/h,4.0 sec
+Porsche,Taycan Sport Turismo,4,71,380 km,230 km/h,5.4 sec
+Opel,Vivaro-e Combi M 50 kWh,9,45,180 km,130 km/h,12.1 sec
+Peugeot,e-Traveller Standard 50 kWh,9,45,180 km,130 km/h,13.1 sec
+Fiat,E-Ulysse L3 75 kWh,8,68,260 km,130 km/h,13.3 sec
+Peugeot,e-Traveller Long 75 kWh,9,68,260 km,130 km/h,14.3 sec
+Porsche,Taycan Plus Sport Turismo,4,83.7,445 km,230 km/h,5.4 sec
+Peugeot,e-Rifter Standard 50 kWh,7,45,200 km,135 km/h,11.7 sec
+Citroen,e-SpaceTourer M 50 kWh,9,45,180 km,130 km/h,12.1 sec
+Mercedes,eVito Tourer Long 60 kWh,9,60,210 km,160 km/h,12.0 sec
+Porsche,Taycan Turbo S Cross Turismo,4,83.7,385 km,250 km/h,2.9 sec
+Porsche,Taycan 4S Cross Turismo,4,83.7,425 km,240 km/h,4.1 sec
+Fiat,500e Cabrio 24 kWh,4,21.3,135 km,135 km/h,9.0 sec
+Porsche,Taycan GTS Sport Turismo,4,83.7,425 km,250 km/h,3.7 sec
+Mercedes,eVito Tourer Extra-Long 90 kWh,9,90,305 km,160 km/h,12.0 sec
+Opel,Combo-e Life 50 kWh,7,45,200 km,135 km/h,11.7 sec
+Porsche,Taycan 4S Plus Sport Turismo,4,83.7,430 km,250 km/h,4.0 sec
+Peugeot,e-Expert Combi Long 75 kWh,9,68,260 km,130 km/h,14.3 sec
+Porsche,Taycan Turbo Sport Turismo,4,83.7,405 km,260 km/h,3.2 sec
+Citroen,e-Jumpy Combi M 50 kWh,9,45,180 km,130 km/h,12.1 sec
+Porsche,Taycan Turbo Cross Turismo,4,83.7,400 km,250 km/h,3.3 sec
+Citroen,e-SpaceTourer M 75 kWh,9,68,265 km,130 km/h,13.3 sec
+Toyota,PROACE Shuttle M 75 kWh,9,68,260 km,130 km/h,13.1 sec
+Mercedes,EQV 250 Long,7,60,205 km,160 km/h,12.0 sec
+Toyota,PROACE Verso L 50 kWh,8,45,175 km,130 km/h,12.1 sec
+Mercedes,eVito Tourer Extra-Long 60 kWh,9,60,205 km,160 km/h,12.0 sec
+Peugeot,e-Expert Combi Standard 50 kWh,9,45,180 km,130 km/h,13.1 sec
+Fiat,E-Ulysse L3 50 kWh,8,45,175 km,130 km/h,12.1 sec
+Toyota,PROACE Shuttle L 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Citroen,e-Berlingo XL 50 kWh,7,45,195 km,135 km/h,11.7 sec
+Fiat,E-Ulysse L2 50 kWh,8,45,180 km,130 km/h,12.1 sec
+Toyota,PROACE Shuttle L 75 kWh,9,68,260 km,130 km/h,13.1 sec
+Opel,Zafira-e Life M 50 kWh,9,45,180 km,130 km/h,12.1 sec
+Citroen,e-Jumpy Combi XL 75 kWh,9,68,260 km,130 km/h,13.3 sec
+Opel,Zafira-e Life L 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Citroen,e-SpaceTourer XL 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Mercedes,EQV 250 Extra-Long,7,60,205 km,160 km/h,12.0 sec
+Porsche,Taycan 4S Sport Turismo,4,71,370 km,250 km/h,4.0 sec
+Toyota,PROACE Verso M 50 kWh,8,45,180 km,130 km/h,12.1 sec
+Opel,Vivaro-e Combi L 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Peugeot,e-Traveller Standard 75 kWh,9,68,265 km,130 km/h,14.3 sec
+Fiat,E-Ulysse L2 75 kWh,8,68,265 km,130 km/h,13.3 sec
+Citroen,e-SpaceTourer XL 75 kWh,9,68,260 km,130 km/h,13.3 sec
+Citroen,e-Jumpy Combi XL 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Opel,Vivaro-e Combi L 75 kWh,9,68,260 km,130 km/h,13.3 sec
+Opel,Zafira-e Life M 75 kWh,9,68,265 km,130 km/h,13.3 sec
+Toyota,PROACE Shuttle M 50 kWh,9,45,175 km,130 km/h,12.1 sec
+Peugeot,e-Traveller Long 50 kWh,9,45,175 km,130 km/h,13.1 sec
+Peugeot,e-Expert Combi Long 50 kWh,9,45,175 km,130 km/h,13.1 sec
