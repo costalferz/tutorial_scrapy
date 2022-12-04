@@ -1,4 +1,4 @@
-Brand,Model,Seat,Battery,Range,Topspeed,Fastcharge,Acceleration,Tow_Capacity,Price,Price_GE,Price_Nl,Price_UK,Market_Segment
+Brand,Model,Seat,Battery,Range,Topspeed,Fastcharge,Acceleration,Tow_Capacity,Drive,Price_GE,Price_Nl,Price_UK,Market_Segment
 Kia,EV6 GT,5,74,370 km,260 km/h,970 km/h,3.5 sec,1800,All Wheel Drive,"€69,990","€69,295","£61,595",C
 Tesla,Model Y Long Range Dual Motor,5,75,435 km,217 km/h,670 km/h,5.0 sec,1600,All Wheel Drive,"€59,965","€66,995","£57,990",D
 MG,MG4 Electric 64 kWh,5,61.7,365 km,160 km/h,450 km/h,7.9 sec,500,All Wheel Drive,"€35,990","€34,285","£28,495",C
